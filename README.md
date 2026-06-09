@@ -32,11 +32,11 @@ If you want a domain like `hayaalshayji.com` instead of `.github.io`:
 
 In the CV header (right under your name), the contact line currently reads:
 
-> 301 Leonhard Building, University Park, PA 16802 | hka5222@psu.edu | 714-930-3176
+> 301 Leonhard Building, University Park, PA 16802 | hka5222@psu.edu | 
 
 Once the site is live, swap to:
 
-> 301 Leonhard Building, University Park, PA 16802 | hka5222@psu.edu | 714-930-3176 | hayaalshayji.github.io
+> 301 Leonhard Building, University Park, PA 16802 | hka5222@psu.edu | hayaalshayji.github.io
 
 (or use your custom domain).
 
